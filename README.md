@@ -1,7 +1,7 @@
-## ***Hello_World!! :)***
-### 🖖 I'm Sabrina Carvalho! <img align="right" alt="Sabrina-Carvalho-pic" height="130" style="border-radius:50px;" src="https://i.picasion.com/pic91/38ac53108de86d9bc1fb552d64aff103.gif">
+## 😊 ***Hello_World!! :)***
+### I'm Sabrina Carvalho!🖖 <img align="right" alt="Sabrina-Carvalho-pic" height="130" style="border-radius:50px;" src="https://i.picasion.com/pic91/38ac53108de86d9bc1fb552d64aff103.gif">
 
-> I'm a young *Padawan* in the world of Information Techlogy, and a lover of Data Science 💖
+> *I'm a young Padawan in the world of Information Technology, and a lover of Data Science* 💖
 
 <div>
   <a href="https://www.linkedin.com/in/hello-sabrinacarvalho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -17,6 +17,7 @@
 </div>
 
  ##
+### 👩‍💻 Tools and Programming Languages
   
 <a href="https://github.com/Sabrina-Carvalho/github-readme-stats">
 <img align="center" alt="Sabrina-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -25,6 +26,6 @@
 <img align="center" alt="Sabrina-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </a>
 
-  ##
+ ##
 
-  ![Snake animation](https://github.com/Sabrina-Carvalho/Sabrina-Carvalho/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Sabrina-Carvalho/Sabrina-Carvalho/blob/output/github-contribution-grid-snake.svg)
