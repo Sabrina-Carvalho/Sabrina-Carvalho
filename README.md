@@ -1,5 +1,6 @@
 ## ***Hello_World!! :)***
-### 🖖 I'm Sabrina Carvalho!
+### 🖖 I'm Sabrina Carvalho! <img align="right" alt="Sabrina-Carvalho-pic" height="130" style="border-radius:50px;" src="https://i.picasion.com/pic91/38ac53108de86d9bc1fb552d64aff103.gif">
+
 > I'm a young *Padawan* in the world of Information Techlogy, and a lover of Data Science 💖
 
 <div>
@@ -27,5 +28,4 @@
   ##
 
   ![Snake animation](https://github.com/Sabrina-Carvalho/Sabrina-Carvalho/blob/output/github-contribution-grid-snake.svg)
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/38ac53108de86d9bc1fb552d64aff103.gif" width="120" height="120" border="0" alt="https://picasion.com/" /></a><br />
- *Let's go code!!*
+  
