@@ -1,7 +1,22 @@
-### Hi there 👋
+## ***Hello World :)***
+### I'm Sabrina Carvalho! 🖖
+I'm a young *Padawan* in the world of Information Techlogy, and a lover of Data Science 💖
+radical
+tokyonight
+cobalt
+synthwave
+---
 
-<!--
-**Sabrina-Carvalho/Sabrina-Carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/Sabrina-Carvalho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sabrina-Carvalho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina-Carvalho&layout=compact&langs_count=16&theme=radical"/>
+</div>
+ 
+
+
+
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm not a robot! 🤖
