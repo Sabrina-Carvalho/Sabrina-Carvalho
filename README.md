@@ -1,7 +1,7 @@
-## 😊 ***Hello_World!! :)***
+## 👋😊 ***Hello_World!! :)***
 ### I'm Sabrina Carvalho!🖖 <img align="right" alt="Sabrina-Carvalho-pic" height="130" style="border-radius:50px;" src="https://i.picasion.com/pic91/38ac53108de86d9bc1fb552d64aff103.gif">
 
-> *I'm a young Padawan in the world of Information Technology, and a lover of Data Science* 💖
+> *And welcome to my little virtual world of programming!! 👩‍💻* 
 
 <div>
    <a href="mailto:hello.sabrinacarvalho@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
